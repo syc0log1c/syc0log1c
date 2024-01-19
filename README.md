@@ -20,8 +20,8 @@ I juggle between being a data traveler, a tech junkie, and an AI whisperer. My d
 - Open Source: Contributing to and advocating for open source projects.
 
 ### ☠️👑 Quote to Live By
-"In a world of locked rooms, the man with the key is king. And honey, you should see me in a crown." 
       
+      "In a world of locked rooms, the man with the key is king. And honey, you should see me in a crown." 
       A nod to the brilliant minds who challenge the status quo.
 
 Feel free to browse through my repositories and let's connect the dots in this digital universe together!
