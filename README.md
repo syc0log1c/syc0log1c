@@ -1,11 +1,10 @@
 
-"Access to computers—and anything that might teach you something about the way the world works—should be unlimited and total."
-"All information should be free."
-"Mistrust authority—promote decentralization."
-"Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position."
-"You can create art and beauty on a computer."
-"Computers can change your life for the better."
-
+    "Access to computers—and anything that might teach you something about the way the world works—should be unlimited and total."
+    "All information should be free."
+    "Mistrust authority—promote decentralization."
+    "Hackers should be judged by their hacking, not bogus criteria such as degrees, age, race, or position."
+    "You can create art and beauty on a computer."
+    "Computers can change your life for the better."
 
         
 > ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
