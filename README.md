@@ -1,4 +1,4 @@
-# Hi there, I'm SycoLogic! 👋
+# Hi there, I'm Syc0Log1c!
 
 ### 📚 I’m currently learning...
 - Advancing my skills in Python, HTML, PHP
