@@ -16,8 +16,8 @@ I juggle between being a data traveler, a tech junkie, and an AI whisperer. My d
 
 ###  Interests
 - Artificial Intelligence: Using Python to make machines smarter.
-- Social engineering: Using AI for a new way to manipulate.
-- Security: Using AI for SE Pentesting in new ways.
+- Social engineering: Using AI for a new way to pentesting.
+- Security: Using AI for automated it sec.
 - Open Source: Contributing to and advocating for open source projects.
 
 ###  Quote to Live By
