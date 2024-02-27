@@ -8,7 +8,7 @@
 ###  What do I do?
 I juggle between being a data traveler, a tech junkie, and an AI whisperer. My days are spent exploring the intricate networks of data, unraveling the secrets of technology, and whispering to AIs. KEKW
 
-### 👀 Fun facts:
+###  Fun facts:
 - I'm a huge fan of Terry Pratchett.
 - I GM several pen-and-paper RPGs
 - My motto: Always one lesson, one book, and one hack at a time.
