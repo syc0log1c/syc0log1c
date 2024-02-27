@@ -21,8 +21,8 @@ I juggle between being a data traveler, a tech junkie, and an AI whisperer. My d
 
 ### ☠️👑 Quote to Live By
       
-      "In a world of locked rooms, the man with the key is king. And honey, you should see me in a crown." 
-      A nod to the brilliant minds who challenge the status quo.
+      Technology is a tool. People forget that. A fool with a tool is still a fool.
+      Kevin Mitnick
 
 Feel free to browse through my repositories and let's connect the dots in this digital universe together!
 
