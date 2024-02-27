@@ -1,7 +1,7 @@
 # Hi there, I'm Syc0Log1c!
 
 ###  I’m currently learning...
-- Advancing my skills in Python, HTML, PHP
+- Advancing my skills in Python, HTML, JavaScript, C++ ....
 - Exploring new trends in AI and Security
 - Diving into the world of Open Source and Digitalization
 
@@ -16,6 +16,7 @@ I juggle between being a data traveler, a tech junkie, and an AI whisperer. My d
 
 ###  Interests
 - Artificial Intelligence: Using Python to make machines smarter.
+- Social engineering: Using AI for a new way to manipulate.
 - Security: Using AI for SE Pentesting in new ways.
 - Open Source: Contributing to and advocating for open source projects.
 
